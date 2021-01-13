@@ -1,0 +1,209 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="My" GeneratedClassName="MySettings" UseMySettingsClassName="true">
+  <Profiles />
+  <Settings>
+    <Setting Name="margen" Type="System.Single" Scope="User">
+      <Value Profile="(Default)">13</Value>
+    </Setting>
+    <Setting Name="iva" Type="System.Single" Scope="User">
+      <Value Profile="(Default)">16</Value>
+    </Setting>
+    <Setting Name="comision" Type="System.Single" Scope="User">
+      <Value Profile="(Default)">1.5</Value>
+    </Setting>
+    <Setting Name="Recordar" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="UserName" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="pw" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="periodoVta_pedidos" Type="System.Decimal" Scope="User">
+      <Value Profile="(Default)">30</Value>
+    </Setting>
+    <Setting Name="ncaja" Type="System.Byte" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="mnu_tablas" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="menus" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="Mcatalogo" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="solocaja" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="LineasXfactura" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">22</Value>
+    </Setting>
+    <Setting Name="impresora_ticket" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="impresora_factura" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="Impresora_reportes" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="almacen" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="ftpserver" Type="System.String" Scope="User">
+      <Value Profile="(Default)">ftp.casabaroudi.com</Value>
+    </Setting>
+    <Setting Name="ftpuser" Type="System.String" Scope="User">
+      <Value Profile="(Default)">casabaroud</Value>
+    </Setting>
+    <Setting Name="ftppw" Type="System.String" Scope="User">
+      <Value Profile="(Default)">DXmtVV6hErrR</Value>
+    </Setting>
+    <Setting Name="Autoriza_Automatico" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="ftppath_cortes" Type="System.String" Scope="User">
+      <Value Profile="(Default)">/domains/casabaroudi.com/public_html/net/cortes/</Value>
+    </Setting>
+    <Setting Name="mostrar_web" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="puedeAutorizar" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="tmpfile" Type="System.String" Scope="User">
+      <Value Profile="(Default)">c:\tmp\mio.tmp</Value>
+    </Setting>
+    <Setting Name="id_grupo" Type="System.Windows.Forms.CheckState" Scope="User">
+      <Value Profile="(Default)">Unchecked</Value>
+    </Setting>
+    <Setting Name="Grupo" Type="System.Windows.Forms.CheckState" Scope="User">
+      <Value Profile="(Default)">Checked</Value>
+    </Setting>
+    <Setting Name="PZ_x_Caja" Type="System.Windows.Forms.CheckState" Scope="User">
+      <Value Profile="(Default)">Checked</Value>
+    </Setting>
+    <Setting Name="Pz_X_Exhibidor" Type="System.Windows.Forms.CheckState" Scope="User">
+      <Value Profile="(Default)">Checked</Value>
+    </Setting>
+    <Setting Name="Exhi_x_caja" Type="System.Windows.Forms.CheckState" Scope="User">
+      <Value Profile="(Default)">Unchecked</Value>
+    </Setting>
+    <Setting Name="Costo_x_pz" Type="System.Windows.Forms.CheckState" Scope="User">
+      <Value Profile="(Default)">Checked</Value>
+    </Setting>
+    <Setting Name="Costo_x_Exhi" Type="System.Windows.Forms.CheckState" Scope="User">
+      <Value Profile="(Default)">Unchecked</Value>
+    </Setting>
+    <Setting Name="Pv_Pieza" Type="System.Windows.Forms.CheckState" Scope="User">
+      <Value Profile="(Default)">Checked</Value>
+    </Setting>
+    <Setting Name="pv_exhibidor" Type="System.Windows.Forms.CheckState" Scope="User">
+      <Value Profile="(Default)">Checked</Value>
+    </Setting>
+    <Setting Name="pv_caja" Type="System.Windows.Forms.CheckState" Scope="User">
+      <Value Profile="(Default)">Unchecked</Value>
+    </Setting>
+    <Setting Name="costo_x_caja" Type="System.Windows.Forms.CheckState" Scope="User">
+      <Value Profile="(Default)">Checked</Value>
+    </Setting>
+    <Setting Name="Cobrar_tarjeta" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="pedidos_calcular" Type="System.Windows.Forms.CheckState" Scope="User">
+      <Value Profile="(Default)">Checked</Value>
+    </Setting>
+    <Setting Name="grupo_suspendidos" Type="System.String" Scope="User">
+      <Value Profile="(Default)">150</Value>
+    </Setting>
+    <Setting Name="iva2" Type="System.Single" Scope="User">
+      <Value Profile="(Default)">11</Value>
+    </Setting>
+    <Setting Name="lineasnc" Type="System.String" Scope="User">
+      <Value Profile="(Default)">8</Value>
+    </Setting>
+    <Setting Name="impresora_default" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="auto_open_inventario" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="recalcularprecios" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="terminal" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="logo" Type="System.String" Scope="User">
+      <Value Profile="(Default)">file://\\abarroterabara\datosintegral\datos_sistema\logo.jpg</Value>
+    </Setting>
+    <Setting Name="excluirprovedores" Type="System.String" Scope="User">
+      <Value Profile="(Default)">487,477,526,519,245</Value>
+    </Setting>
+    <Setting Name="tipodecambio" Type="System.Single" Scope="User">
+      <Value Profile="(Default)">12.2</Value>
+    </Setting>
+    <Setting Name="FEI_activo" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="mimail" Type="System.String" Scope="User">
+      <Value Profile="(Default)">cfd@casabaroudi.com</Value>
+    </Setting>
+    <Setting Name="kagentes" Type="System.String" Scope="User">
+      <Value Profile="(Default)">1,2,3,4,5,6</Value>
+    </Setting>
+    <Setting Name="ncargo" Type="System.String" Scope="User">
+      <Value Profile="(Default)">NA</Value>
+    </Setting>
+    <Setting Name="separar" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="ftpfei" Type="System.String" Scope="User">
+      <Value Profile="(Default)">/public_html/net/fei/</Value>
+    </Setting>
+    <Setting Name="AdmintegralConnectionString" GenerateDefaultValueInCode="false" Type="(Connection string)" Scope="Application">
+      <DesignTimeValue Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;SerializableConnectionString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;ConnectionString&gt;Data Source=MATRIX\SQLEXPRESS;Initial Catalog=integral;Integrated Security=True&lt;/ConnectionString&gt;
+  &lt;ProviderName&gt;System.Data.SqlClient&lt;/ProviderName&gt;
+&lt;/SerializableConnectionString&gt;</DesignTimeValue>
+      <Value Profile="(Default)">Data Source=MATRIX\SQLEXPRESS;Initial Catalog=integral;Integrated Security=True</Value>
+    </Setting>
+    <Setting Name="AdminTegral" Type="(Connection string)" Scope="Application">
+      <DesignTimeValue Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;SerializableConnectionString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;ConnectionString&gt;Data Source=CASABAROUDI\COMPAC;Initial Catalog=integra;Persist Security Info=True;User ID=sa;Password=C0ntpaq$&lt;/ConnectionString&gt;
+  &lt;ProviderName&gt;System.Data.SqlClient&lt;/ProviderName&gt;
+&lt;/SerializableConnectionString&gt;</DesignTimeValue>
+      <Value Profile="(Default)">Data Source=CASABAROUDI\COMPAC;Initial Catalog=integra;Persist Security Info=True;User ID=sa;Password=C0ntpaq$</Value>
+    </Setting>
+    <Setting Name="integraConnectionString" Type="(Connection string)" Scope="Application">
+      <DesignTimeValue Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;SerializableConnectionString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;ConnectionString&gt;Data Source=CASABAROUDI\COMPAC;Initial Catalog=integra;Persist Security Info=True;User ID=sa;Password=C0ntpaq$&lt;/ConnectionString&gt;
+  &lt;ProviderName&gt;System.Data.SqlClient&lt;/ProviderName&gt;
+&lt;/SerializableConnectionString&gt;</DesignTimeValue>
+      <Value Profile="(Default)">Data Source=CASABAROUDI\COMPAC;Initial Catalog=integra;Persist Security Info=True;User ID=sa;Password=C0ntpaq$</Value>
+    </Setting>
+    <Setting Name="SAT_catalogosConnectionString" Type="(Connection string)" Scope="Application">
+      <DesignTimeValue Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;SerializableConnectionString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;ConnectionString&gt;Data Source=CASABAROUDI\COMPAC;Initial Catalog=SAT;Persist Security Info=True;User ID=sa;Password=C0ntpaq$&lt;/ConnectionString&gt;
+  &lt;ProviderName&gt;System.Data.SqlClient&lt;/ProviderName&gt;
+&lt;/SerializableConnectionString&gt;</DesignTimeValue>
+      <Value Profile="(Default)">Data Source=CASABAROUDI\COMPAC;Initial Catalog=SAT;Persist Security Info=True;User ID=sa;Password=C0ntpaq$</Value>
+    </Setting>
+    <Setting Name="sqlserver" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Data Source=CASABAROUDI\COMPAC;Initial Catalog=integra;Persist Security Info=True;User ID=sa;Password=C0ntpaq$</Value>
+    </Setting>
+    <Setting Name="sqlsat" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Data Source=CASABAROUDI\COMPAC;Initial Catalog=SAT;Persist Security Info=True;User ID=sa;Password=C0ntpaq$</Value>
+    </Setting>
+    <Setting Name="items_adicionales" Type="System.String" Scope="User">
+      <Value Profile="(Default)">10</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

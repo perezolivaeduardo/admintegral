@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="4.0">
+  <PropertyGroup>
+    <PublishUrlHistory>ftp://www.programacionintegral.com/public_html/sistemas/bara/|C:\bara\|ftp://www.programacionintegral.com/public_html/sistemas/rm/admon/|\\ABARROTERABARA\datosintegral\sistemas\admintegral\|\\abarroterabara\datosintegral\sistemas\Admintegral\</PublishUrlHistory>
+    <InstallUrlHistory>http://www.programacionintegral.com/sistemas/bara/|\\server\datosintegral\sistemas\admintegral\|\\ABARROTERABARA\datosintegral\sistemas\admintegral\|\\ABARROTERABARA\datosintegral\sistemas\admintegralCFD\|\\abarroterabara\datosintegral\sistemas\admintegral\</InstallUrlHistory>
+    <SupportUrlHistory>
+    </SupportUrlHistory>
+    <UpdateUrlHistory>\\ABARROTERABARA\datosintegral\sistemas\admintegral\|\\server\datosintegral\sistemas\admintegral\|\\abarroterabara\datosintegral\sistemas\admintegral\|\\abarroterabara\Datosintegral\sistemas\Admintegral\|http://www.casabaroudi.com/net/apptienda/</UpdateUrlHistory>
+    <BootstrapperUrlHistory>
+    </BootstrapperUrlHistory>
+    <FallbackCulture>es-ES</FallbackCulture>
+    <VerifyUploadedFiles>false</VerifyUploadedFiles>
+    <ProjectView>ProjectFiles</ProjectView>
+    <EnableSecurityDebugging>false</EnableSecurityDebugging>
+    <ErrorReportUrlHistory />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <StartAction>Project</StartAction>
+    <StartArguments>
+    </StartArguments>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <StartAction>Project</StartAction>
+    <StartArguments>
+    </StartArguments>
+  </PropertyGroup>
+</Project>

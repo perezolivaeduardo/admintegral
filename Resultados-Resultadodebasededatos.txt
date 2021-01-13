@@ -1,0 +1,6 @@
+Ejecutando [dbo].[borrar_documento] ( @Original_id_doc = 1, @Original_folio_doc = 0 ).
+
+Ninguna fila afectada.
+(0 filas devueltas)
+@RETURN_VALUE = 0
+Ejecución de [dbo].[borrar_documento] finalizada.
